@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fxtest">
+    <output-path>$PROJECT_DIR$/out/artifacts/fxtest</output-path>
+    <root id="archive" name="fxtest.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/out/production/huifufx" />
+    </root>
+  </artifact>
+</component>
